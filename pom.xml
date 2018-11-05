@@ -17,7 +17,7 @@
   </dependencies>
 
 
-</butionManagement>
+</distributionManagement>
 <repository>
 <id>nexus</id>
 <name>gitone_releases</name>
