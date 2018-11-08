@@ -2,7 +2,7 @@
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.example</groupId>
 <artifactId>nexus-proxy</artifactId>
-<version>1.0</version>
+<version>1.0-SNAPSHOT</version>
 <dependencies>
 <dependency>
 <groupId>junit</groupId>
@@ -16,12 +16,12 @@
 <repository>
 <id>nexus</id>
 <name>gitone_releases</name>
-<url>http://35.231.47.129:8081/repository/gitone_releases/</url>
+<url>http://35.231.238.149:8081/repository/gitone_releases/</url>
 </repository>
 <snapshotRepository>
 <id>nexus</id>
 <name>gitone_snapshots</name>
-<url>http://35.231.47.129:8081/repository/gitone_snapshots/</url>
+<url>http://35.231.238.149:8081/repository/gitone_snapshots/</url>
 </snapshotRepository>
 </distributionManagement>
   
