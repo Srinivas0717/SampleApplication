@@ -23,5 +23,6 @@
 <url>http://35.237.241.84:8081/repository/gitone_snapshots/</url>
 </snapshotRepository>
 </distributionManagement>
+
   
 </project>
